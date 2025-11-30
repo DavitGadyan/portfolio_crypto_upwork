@@ -115,8 +115,3 @@
     transform: translateZ(0);
   }
 }
-
-.table > :not(caption) > * > * {
-  background-color: transparent !important;
-  box-shadow: none !important; /* optional, removes the giant inset BG trick */
-}
