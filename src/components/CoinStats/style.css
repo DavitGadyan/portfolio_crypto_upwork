@@ -41,7 +41,7 @@
   transition: all 0.3s;
 }
 
-.stick_follow_icon p:after {
+. p:after {
   top: 9px;
   right: -48px;
   width: 40px;
