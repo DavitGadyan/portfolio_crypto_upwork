@@ -60,7 +60,7 @@ export const Entries = () => {
                   symbols={ALL_SYMBOLS}
                   exchange="binance"
                   db="coin-stats"
-                  startingBalance={100}
+                  startingBalance={1000}
                 />
               </div>
               <div className="metrics-right__drawdown">
