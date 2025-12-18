@@ -97,7 +97,7 @@ export default function EquityCurve({
   db,
   height = 260,
   width = 520,
-  startingBalance = 100,
+  startingBalance = 1000,
   palette = {},
 }) {
   const colors = useMemo(() => ({ ...DEFAULT_COLORS, ...palette }), [palette]);
